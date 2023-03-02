@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mc_interface.h": "c",
+			"ch.h": "c"
+		}
+	}
+}
